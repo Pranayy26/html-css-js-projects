@@ -9,9 +9,8 @@ This repository contains a series of projects built to demonstrate the use of HT
 ## Projects
 
 ### 1. Tasty Food
-- **Description**: Briefly describe what this project does and its key features.
-- **Live Demo**: [Link to live demo](#)
-- **Source Code**: [Link to source code](#)
+- **Description**:  A responsive website designed to showcase delicious meals and services. This project highlights various sections of a restaurant website including Home, About, Services, Menu, App, and Contact. It is built using HTML, CSS, and JavaScript.
+- **Source Code**: [Restaurant Website](#)
 
 ## Technologies
 
